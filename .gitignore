@@ -1,0 +1,12 @@
+.idea
+.vscode
+node_modules
+docs/_build
+reports
+soljson.js.*
+npm-debug.log*
+remix
+.DS_Store
+contracts
+TODO
+.tern-port
